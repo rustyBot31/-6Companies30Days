@@ -1,0 +1,13 @@
+Solved 2 problems today
+
+MICROSOFT
+
+1) Who is the Winner?
+Submission ID - https://leetcode.com/submissions/detail/1493499476/
+Time Complexity : O(n)
+Additional Space Complexity : O(1)
+
+2) Bulls and Cows
+Submission ID - https://leetcode.com/submissions/detail/1493514692/
+Time Complexity : O(length of string)
+Additional Space Complexity : O(1) 
