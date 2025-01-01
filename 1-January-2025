@@ -1,0 +1,18 @@
+Solved 3 problems today
+
+MICROSOFT
+
+1)Overlap Circle and Rectangle
+Submission ID - https://leetcode.com/submissions/detail/1493887633/
+Time Complexity : O(1)
+Space Complexity : O(1)
+
+2)Envelopes and Dolls
+Submission ID - https://leetcode.com/submissions/detail/1493942032/
+Time Complexity : O(n log n)
+Space Complexity : O(length of LIS)
+
+3)Minimum Moves to Equal Array Elements
+Submission ID - https://leetcode.com/submissions/detail/1493981293/
+Time Complexity : O(n log n)
+Space Complexity : O(1)
