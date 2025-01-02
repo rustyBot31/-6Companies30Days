@@ -1,0 +1,18 @@
+Solved 3 problems today
+
+MICROSOFT
+
+1)City with Smallest Number of Threshold Distance
+Submission ID - https://leetcode.com/submissions/detail/1494842674/
+Time Complexity : O(N^3 log N)
+Space Complexity : O(N^2)
+
+2)Counting Nice Subarrays
+Submission ID - https://leetcode.com/submissions/detail/1494977499/
+Time Complexity : O(n)
+Space Complexity : O(n)
+
+3)Max Product of length of two palindromic subsequences
+Submission ID - https://leetcode.com/submissions/detail/1495155066/
+Time Complexity : O(3^n)
+Space Complexity : O(n)
