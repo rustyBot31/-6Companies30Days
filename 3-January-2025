@@ -1,0 +1,23 @@
+Solved 4 problems today
+
+MICROSOFT
+
+1)Image Smoother
+Submission ID - https://leetcode.com/submissions/detail/1496029319/
+Time Complexity : O(n*m)
+Space Complexity : O(n*m)
+
+2)Wiggle Sort
+Submission ID - https://leetcode.com/submissions/detail/1496015048/
+Time Complexity : O(n log n)
+Space Complexity : O(n)
+
+3)Repeated DNA Sequences
+Submission ID - https://leetcode.com/submissions/detail/1496002852/
+Time Complexity : O(n)
+Space Complexity : O(n)
+
+4)Minimum Cost to Convert String 1
+Submission ID - https://leetcode.com/submissions/detail/1495996927/
+Time Complexity : O(26^3 + N )
+Space Complexity : O(26^3)
