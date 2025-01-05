@@ -1,0 +1,17 @@
+Solved 3 problems today
+
+AMAZON
+
+1)Maximum Sum of Distinct Subarrays with Length K
+Submission ID - https://leetcode.com/submissions/detail/1498737843/
+Time Complexity : O(n)
+Space Complexity : O(n)
+
+2)Maximum of all subarrays of size k
+Time Complexity : O(n)
+Space Complexity : O(n)
+
+3)Rotten Oranges
+Submission ID - https://leetcode.com/submissions/detail/1498795921/
+Time Complexity : O(n*m)
+Space Complexity : O(n*m)
