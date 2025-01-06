@@ -1,0 +1,18 @@
+Solved 3 problems today
+
+AMAZON
+
+1)Buy and Sell Stocks 
+Submission ID - https://leetcode.com/submissions/detail/1499790945/
+Time Complexity : O(n*k)
+Space Complexity : O(n*k)
+
+2)Valid Sudoku
+Submission ID - https://leetcode.com/submissions/detail/1499816401
+Time Complexity : O(1)
+Space Complexity : O(1)
+
+3)First Unique Character in String
+Submission ID - https://leetcode.com/submissions/detail/1499874245/
+Time Complexity : O(n)
+Space Complexity : O(1)
