@@ -1,0 +1,17 @@
+Solved 3 problems today
+
+AMAZON
+
+1)Ways to Reach Nth Stair
+Submission ID - https://leetcode.com/submissions/detail/1503023519/
+Time Complexity : O(32^3 * 2)
+Space Complexity : O(32^2 * 2)
+
+2)Phone Directory
+Time Complexity : O(n*s*s)
+Space Complexity : O(s*n)
+
+3)Tree Serialization and Deserialization
+Submission ID - https://leetcode.com/submissions/detail/1503116246/
+Time Complexity : O(V)
+Space Complexity : O(V)
